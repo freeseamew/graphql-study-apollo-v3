@@ -24,7 +24,7 @@ npm i
 
 터미널에서 다음 명령어 실행
 ```
-meteor run 
+DISABLE_WEBSOCKETS=true meteor run
 ```
 
 ## 5. 브라우저에서 다음 주소로 접속해 GraphQL playground를 실행
