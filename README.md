@@ -13,6 +13,11 @@ https://github.com/coreybutler/nvm-windows/releases
 
 > windows에서 nvm 설치 후 nvm으로 node를 선택하지 못하거나 node명령 자체가 안되는 경우가 있습니다. 이때는 터미널을 관리자 권한으로 실행 후  에서 use로 버전을 선택하길 권합니다. 참고로 그 후에는 다시 관리자 권한 없이도 nvm이 됩니다. 
 
+1-1-2. windows용 bash 터미널 설치
+다음 사이트에서 다운 받아 설치하고 비주얼스튜디오 코드에서 git_bash 라는 터미널로 작업
+
+> https://git-scm.com/
+
 
 1-2. Mac os
 : 맥에서는 brew라는 것을 설치 후 다음명령어를 이용해 설치가 가능합니다. 
